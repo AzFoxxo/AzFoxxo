@@ -1,51 +1,18 @@
-<img src="Az Foxxo.svg" alt="Az Foxxo with a knot emoji before overlapping the A of Az"/>
-<p align="center">Generic blue homosexual furry who writes code during the early hours of the morning uwu</p>
-<p align="left"> <img src="https://img.shields.io/endpoint?url=https://pronoundb.org/shields/62c4c5a395ed6674fbc90416&color=FF34A7"/>&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=knotmasteraz&label=profile+views&color=FF34A7"/> </p>
+# 💫 About Me:
+Currently working on uni projects.
 
-  
-- 🔭 I’m currently working on **Fox Vision**, a lightweight 16 bit virtual machine with two projects, a simple assembler and virtual machine 
 
-- 📫 Email me at **az@azfoxxo.com**
-  
-<hr>
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/azfoxxo.bsky.social) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@azfoxxo) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@AzFoxxo@meow.social) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@azfoxxo.com) 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=azfoxxo)](https://github.com/ryo-ma/github-profile-trophy)
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=azfoxxo&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=azfoxxo&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=azfoxxo&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<hr>
+---
+[![](https://visitcount.itsvg.in/api?id=azfoxxo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <details open>
-    <summary><b>🛠️ Development</b></summary>
-    <table>
-      <tr>
-        <th align="right">Category</th>
-        <th align="left">Technologies</th>
-      </tr>
-      <tr>
-        <td align="right">Programming Languages</td>
-        <td><img src="https://skillicons.dev/icons?i=cs,python,ruby,rust,c" height="35px"/></td>
-      </tr>
-      <tr>
-        <td align="right">Engines and Frameworks</td>
-        <td><img src="https://skillicons.dev/icons?i=unity,gamemakerstudio,dotnet" height="35px"/></td>
-      </tr>
-      <tr>
-      <tr>
-        <td align="right">OSes and Deployment</td>
-        <td><img src="https://skillicons.dev/icons?i=linux,docker,raspberrypi" height="35px"/></td>
-      </tr>
-      <tr>
-        <td align="right">Text Editors and IDEs</td>
-        <td><img src="https://skillicons.dev/icons?i=vscode,visualstudio,neovim" height="35px"/></td>
-      </tr>
-      <tr>
-        <td align="right">Creative Apps</td>
-        <td><img src="https://skillicons.dev/icons?i=blender,photoshop,illustrator" height="35px"/></td>
-      </tr>
-      <tr>
-        <td align="right">Other</td>
-        <td><img src="https://skillicons.dev/icons?i=bash,markdown,git,github,gitlab" height="35px"/></td>
-      </tr>
-    </table>
-  </details>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
